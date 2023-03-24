@@ -3,18 +3,17 @@
 
 '''
 Steps: 
-1. (DONE)create a list that only have 12 pseudowords
-2. (DONE)import the pseudoword list
-3. (DONE)randomly select 6 out of the list of 12 pseudowords as the target words
-4. (DONE)select 3 out of the 6 target words and divided 3-3 into High-CD and Low-CD conditions
-5. (DONE)import all the pre-selected bunch of texts
-6. (DONE)divided all the pre-selected texts into the High-CD and Low-CD sets
-7. (KIND OF?)randomly selelct a pair set of High-CD and Low-CD texts
-8. insert the assigned pseudowords into the pair set of High-CD and Low-CD texts
-# The pseudowords need to be inseted in the texts first, and then randomly choose from the texts set??
+1. Create a list that only contains pseudowords (in this case, 12 pseudowords in total)
+2. Load in the pseudoword list
+3. Randomly select half of the pseudoword list as the target pseudowords
+4. Divided the target pseudowords into two equal-numbered groups as the High-CD and Low-CD condition pseudowords sets
+5. Load in all modified texts
+6. ##(X) (DONE)divided all the pre-selected texts into the High-CD and Low-CD sets
+7. ##(X) (KIND OF?)randomly selelct a pair set of High-CD and Low-CD texts
+8. Insert the assigned pseudowords into the chosen High-CD and Low-CD texts
+###(X) The pseudowords need to be inseted in the texts first, and then randomly choose from the texts set??
 
 '''
-
 
 from pprint import pprint
 import csv
