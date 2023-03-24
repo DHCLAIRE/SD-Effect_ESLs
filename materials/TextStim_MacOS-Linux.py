@@ -56,7 +56,7 @@ if __name__ == "__main__":
     #texts_low_CD_setDICT = {}
     
     """
-    # 1_Create the pseudoword LIST and save it into json file
+    ### Create the pseudoword LIST and save it into json file ### (This step only needs to be done once before begin any text preparation)
     
     # Open the csv file that contains the info of 12 pseudowords
     with open (stim_data_path + "2nd_Pseudowords_12.csv", "r", encoding = "utf-8") as raw_file:
