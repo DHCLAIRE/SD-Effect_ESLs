@@ -55,7 +55,7 @@ if __name__ == "__main__":
     #texts_high_CD_setDICT = {}
     #texts_low_CD_setDICT = {}
     
-    """
+    #"""
     ### Create the pseudoword LIST and save it into json file ### (This step only needs to be done once before begin any text preparation)
     
     # Open the csv file that contains the info of 12 pseudowords
@@ -80,7 +80,7 @@ if __name__ == "__main__":
     # Save the pseudoword LIST into a json file
     with open(stim_data_path + 'LTTC-pseudowordLIST.json', "w", newline='', encoding="UTF-8") as jsonfile:
         json.dump(pseudoLIST, jsonfile, ensure_ascii=False)
-        """
+        #"""
     #"""
     # 2_Import the pseudoword list (in json file form)
     with open (stim_data_path + "LTTC-pseudowordLIST.json", "r", encoding = "utf-8") as jfile:
@@ -143,7 +143,7 @@ if __name__ == "__main__":
         # save all the sets into an individual json file
         with open(textSets_data_path + "sets_10_LIST.json", "w", newline='', encoding="UTF-8") as setsfile:
             json.dump(sets_10_LIST, setsfile, ensure_ascii=False)
-        """
+        #"""
     for count in range(21, 31):
         #print(count)
         #print(type(count))
