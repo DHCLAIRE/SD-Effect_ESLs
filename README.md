@@ -10,7 +10,7 @@ Option 2: Simply download it as a zip file.
 ## Step 2: Prepare your
 
 
-## Example Instructions from Eelbrain/Alice<https://github.com/Eelbrain/Alice>
+## Example Instructions from [Eelbrain/Alice](https://github.com/Eelbrain/Alice)
 # Alice dataset for Eelbrain
 This repository contains scripts and instructions to reproduce the results from the manuscript Eelbrain: A toolkit for time-continuous analysis with temporal response functions.
 
