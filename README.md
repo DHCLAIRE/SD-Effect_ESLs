@@ -10,6 +10,12 @@ Option 2: Simply download it as a zip file.
 ## Step 2: Prepare your materials (texts & Pseudowords)
 
 ## Step 3: Conduct your experiments
+#### MacOX version
+1. `Reading_MacOS-Linux_ver.py`: Reading 30 texts + reading comprehension rating (Training phase)
+2. `LDT_MacOS-Linux_ver.py`: Pseudoword Lexical Decision Task (PLDT) (Evaluation phase)
+#### Windows 10 version
+1. `Reading_Windows_ver.py`: Reading 30 texts + reading comprehension rating (Training phase)
+2. `LDT_Windows_ver.py`: Pseudoword Lexical Decision Task (PLDT) (Evaluation phase)
 
 ## Step 4: Use Linear Mix Model (LMM) to analyze the results
 1. `form_LMMdata.py`: Produce the suitabl form of data for LMM
