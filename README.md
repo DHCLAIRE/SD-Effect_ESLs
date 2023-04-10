@@ -8,6 +8,8 @@ Option 2: Simply download it as a zip file.
 
 
 ## Step 2: Prepare your materials (texts & Pseudowords)
+1. `Read materials_MacOS-Linux.py`: Load in the modified texts
+2. `TextStim_MacOS-Linux.py`: Split pseudowords, categorize text sets...??
 
 ## Step 3: Conduct your experiments
 #### MacOX version
