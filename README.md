@@ -1,5 +1,5 @@
 # SD-Effect_ESLs
-This repository contains scripts and instructions to reproduce the results from the manuscript *SD effect on ELs*
+This repository contains scripts and instructions to reproduce the results from the future manuscript *SD effect on ELs*
 
 # Setup
 ## Step 1: Download this repository
