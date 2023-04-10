@@ -3,7 +3,8 @@ This repository contains scripts and instructions to reproduce the results from 
 
 # Setup
 ## Download this repository
-Option 1: Clone this repository \n
+Option 1: Clone this repository
+
 Option 2: Simply download it as a zip file.
 
 
