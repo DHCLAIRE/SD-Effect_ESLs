@@ -20,7 +20,7 @@ Option 2: Simply download it as a zip file.
 2. `LDT_Windows_ver.py`: Pseudoword Lexical Decision Task (PLDT) (Evaluation phase)
 
 ## Step 4: Use Linear Mix Model (LMM) to analyze the results
-1. `form_LMMdata.py`: Produce the suitabl form of data for LMM
+1. `form_LMMdata.py`: Produce the suitable form of data for LMM
 2. `CD effect Stats LMM.R`: Showing figures and stats of CD effect
 3. `Novality effect Stats LMM.R`: Showing figures and stats of Old-New effect
 4. `Correlation.R`: Showing figures and stats of related correlations
