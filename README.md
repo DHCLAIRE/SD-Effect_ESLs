@@ -7,7 +7,14 @@ Option 1: Clone this repository
 Option 2: Simply download it as a zip file.
 
 
-## Step 2: Prepare your
+## Step 2: Prepare your materials (texts & Pseudowords)
+
+## Step 3: Conduct your experiments
+
+## Step 4: Use Linear Mix Model (LMM) to analyze the results
+
+
+
 
 
 ## Example Instructions from [Eelbrain/Alice](https://github.com/Eelbrain/Alice)
