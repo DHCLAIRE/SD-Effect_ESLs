@@ -12,12 +12,16 @@ Option 2: Simply download it as a zip file.
 ## Step 3: Conduct your experiments
 
 ## Step 4: Use Linear Mix Model (LMM) to analyze the results
+1. `form_LMMdata.py`: Produce the suitabl form of data for LMM
+2. `CD effect Stats LMM.R`: Showing figures and stats of CD effect
+3. `Novality effect Stats LMM.R`: Showing figures and stats of Old-New effect
+4. `Correlation.R`: Showing figures and stats of related correlations
 
 
 
 
 
-## Example Instructions from [Eelbrain/Alice](https://github.com/Eelbrain/Alice)
+## Below is the Example Instructions from [Eelbrain/Alice](https://github.com/Eelbrain/Alice)
 # Alice dataset for Eelbrain
 This repository contains scripts and instructions to reproduce the results from the manuscript Eelbrain: A toolkit for time-continuous analysis with temporal response functions.
 
