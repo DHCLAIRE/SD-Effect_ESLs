@@ -25,8 +25,3 @@ Option 2: Simply download it as a zip file.
 3. `Novality effect Stats LMM.R`: Showing figures and stats of Old-New effect
 4. `Correlation.R`: Showing figures and stats of related correlations
 
-
-
-
-
-## You can mimic the Instructions from [Eelbrain/Alice](https://github.com/Eelbrain/Alice)
