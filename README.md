@@ -8,8 +8,7 @@ Script authors:
 # Setup
 ## Step 1: Download this repository
 Option 1: Clone this repository  
-Option 2: Simply download it as a zip file.
-
+Option 2: Simply download this repository as a zip file to your local computer.  
 
 ## Step 2: Prepare your materials (texts & Pseudowords)
 1. `Read materials_MacOS-Linux.py`: Load in the modified texts
