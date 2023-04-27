@@ -1,8 +1,8 @@
 # SD-Effect_ESLs
 This repository contains scripts and instructions to reproduce the results from the future manuscript *SD effect on ELs*  
 Script authors:  
-R(LMM): [Chun-Hsien Hsu](https://github.com/deltaphase)  
-Python: [Ting-Hsin Yen](https://github.com/DHCLAIRE)
+- R(LMM): [Chun-Hsien Hsu](https://github.com/deltaphase)  
+- Python: [Ting-Hsin Yen](https://github.com/DHCLAIRE)
 
 
 # Setup
